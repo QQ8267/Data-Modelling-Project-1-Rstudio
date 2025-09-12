@@ -12,4 +12,5 @@
 *.Rmd	  text
 *.R  	  text
 *.Rproj text
+*.html linguist-detectable=false
 *.[Rr]md   linguist-detectable
